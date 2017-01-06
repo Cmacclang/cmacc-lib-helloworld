@@ -1,6 +1,6 @@
 {
   "name": "cmacc-lib-helloworld",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cmacc Lib HelloWorld",
   "main": "index.js",
   "repository": "git@github.com:Cmacclang/cmacc-lib-helloworld.git",
